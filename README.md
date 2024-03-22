@@ -1,8 +1,8 @@
-<h2 align="left">Hi! My name is Matei!</h2>
+<h1 align="left">Hi! My name is Matei!</h1>
 
 ###
 
-<h4 align="left">My stats:</h4>
+<h3 align="left">My stats:</h3>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="left">Language and Tools:</h4>
+<h3 align="left">Language and Tools:</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h4 align="left">Socials:</h4>
+<h3 align="left">Socials:</h3>
 
 ###
 
