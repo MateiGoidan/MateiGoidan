@@ -1,19 +1,19 @@
-<h1 align="left">Hi! My name is Matei!</h1>
+<h2 align="left">Hi! My name is Matei!</h2>
 
 ###
 
-<h3 align="left">My stats:</h3>
+<h4 align="left">My stats:</h4>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MateiGoidan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateiGoidan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateiGoidan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="left">Language and Tools:</h3>
+<h4 align="left">Language and Tools:</h4>
 
 ###
 
@@ -32,6 +32,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
@@ -39,7 +41,7 @@
 
 ###
 
-<h3 align="left">Socials:</h3>
+<h4 align="left">Socials:</h4>
 
 ###
 
