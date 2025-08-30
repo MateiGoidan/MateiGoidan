@@ -1,7 +1,7 @@
 <h1 align="center">Matei Goidan</h1>
 
-<img align="right" src="Facultatea-de-Matematica-4-Copy-1500x500.png" width="50%">
-<img align="right" src="Sapienza.png" width="50%">
+<img align="right" src="UPB.png" width="50%">
+<img align="right" src="FMI.png" width="50%">
 
 ###
 
