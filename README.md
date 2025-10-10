@@ -25,6 +25,6 @@ Hello · Salut · Ciao · Hallo to my GitHub page! I'm a <b>first-year Master's 
 </div>
 
 <div align="center">
-    <img src="OCAJSE8.jpg">
-    <img src="AI900.svg">
+    <img src="OCAJSE8.png" width="25%" height="25%">
+    <img src="AI900.png" width="25%" height="25%">
 </div>
