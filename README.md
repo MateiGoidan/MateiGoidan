@@ -23,10 +23,3 @@ Hello · Salut · Ciao · Hallo to my GitHub page! I'm a <b>first-year Master's 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateiGoidan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false" height="160" alt="languages graph"  />
 </div>
-
----
-
-<div align="center">
-    <img src="OCAJSE8.png" width="25%" height="25%">
-    <img src="AI900.svg" width="13%" height="13%">
-</div>
