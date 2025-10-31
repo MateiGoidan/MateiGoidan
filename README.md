@@ -1,4 +1,4 @@
-<h1 align="center">Matei Goidan</h1>
+<h1 align="center">Matei-Constantin Goidan</h1>
 
 <img align="right" src="UPB.png" width="50%">
 <img align="right" src="FMI.png" width="50%">
