@@ -21,5 +21,5 @@ Hello · Salut · Ciao · Hallo to my GitHub page! I'm a <b>first-year Master's 
 ---
 
 <div align="center">
-<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=MateiGoidan&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Programming+Languages+Used&hide=javascript%2Chtml%2Ccss&langs_count=6" alt="Top Programming Languages Used" width="466" height="auto" loading="lazy" /></a>
+<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=MateiGoidan&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=320&locale=pt-br&custom_title=Top+Programming+Languages+Used&hide=javascript%2Chtml%2Ccss&langs_count=6" alt="Top Programming Languages Used" height="160" loading="lazy" alt="languages graph" /></a>
 </div>
