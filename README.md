@@ -1,4 +1,4 @@
-<h1 align="center">Matei Goidan</h1>
+<h1 align="center">Matei-Constantin Goidan</h1>
 
 <img align="right" src="UPB.png" width="50%">
 <img align="right" src="FMI.png" width="50%">
@@ -22,9 +22,4 @@ Hello · Salut · Ciao · Hallo to my GitHub page! I'm a <b>first-year Master's 
 
 <div align="center">
 ![Stats](./profile/stats.svg)
-</div>
-
-<div align="center">
-    <img src="OCAJSE8.png" width="25%" height="25%">
-    <img src="AI900.png" width="25%" height="25%">
 </div>
